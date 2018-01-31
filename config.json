@@ -1,0 +1,15 @@
+{
+    "title": "Simmons",
+    "baseURL": "https:\/\/www.mcsimmons.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759049",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "mcsimmons.com"
+    }
+}
